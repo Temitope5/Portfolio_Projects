@@ -19,6 +19,11 @@ Welcome to my Portfolio Guide where I provide a walkthrough to all of my data an
 | [Stakeholder Sales Report](https://app.powerbi.com/view?r=eyJrIjoiNTcxY2I1NWUtOGIyZi00NWNkLTkwMzAtMTIyODZkNThkYjVkIiwidCI6IjM3YTM4M2I2LTBhNTktNGM3ZC05MGI5LWYxNDEzNzk5ZDJhYiJ9)| This is an analysis of a sales dashboard showing the most important information needed by the sales team  |
 | git diff | Show file differences that haven't been staged |
 
+# End-to-End Projects
+
+| Project Name | Description | Stack |
+| --- | --- | --- |
+
 # Data Analysis with Python 
 | Command | Description |
 | --- | --- |

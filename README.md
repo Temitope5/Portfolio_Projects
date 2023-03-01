@@ -14,21 +14,11 @@ Welcome to my Portfolio Guide where I provide a walkthrough to all of my data an
 
 
 # Power BI
-| Project Name | Description |
-| --- | --- |
-| [Stakeholder Sales Report](https://app.powerbi.com/view?r=eyJrIjoiNTcxY2I1NWUtOGIyZi00NWNkLTkwMzAtMTIyODZkNThkYjVkIiwidCI6IjM3YTM4M2I2LTBhNTktNGM3ZC05MGI5LWYxNDEzNzk5ZDJhYiJ9)| This is an analysis of a sales dashboard showing the most important information needed by the sales team  |
-| git diff | Show file differences that haven't been staged |
-
-# End-to-End Projects
-
-| Project Name | Description | Stack |
+| Project Name | Description | Link
 | --- | --- | --- |
+| [Stakeholder Sales Report](https://app.powerbi.com/view?r=eyJrIjoiNTcxY2I1NWUtOGIyZi00NWNkLTkwMzAtMTIyODZkNThkYjVkIiwidCI6IjM3YTM4M2I2LTBhNTktNGM3ZC05MGI5LWYxNDEzNzk5ZDJhYiJ9)| This is an analysis of a sales dashboard showing the most important information needed by the sales team  | [Link]((https://app.powerbi.com/view?r=eyJrIjoiNTcxY2I1NWUtOGIyZi00NWNkLTkwMzAtMTIyODZkNThkYjVkIiwidCI6IjM3YTM4M2I2LTBhNTktNGM3ZC05MGI5LWYxNDEzNzk5ZDJhYiJ9))
+| [Olympics Games Analysis]() | Show file differences that haven't been staged |[Link](https://app.powerbi.com/view?r=eyJrIjoiZDVjY2JjYTMtYjc5Ni00OTgxLWE2NjItNDU2NTdiMTZlMWU1IiwidCI6IjM3YTM4M2I2LTBhNTktNGM3ZC05MGI5LWYxNDEzNzk5ZDJhYiJ9)
 
-# Data Analysis with Python 
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
 
 # Python Programming Projects 
 | Project Name | Description | Library |
@@ -39,7 +29,20 @@ Welcome to my Portfolio Guide where I provide a walkthrough to all of my data an
 | [Password Generator](https://github.com/Temitope5/Python_Projects/blob/main/Python_Password_Generator.py) | A python program that generates password | random
 
 
-<!-- # # Datalemur SQL Interview Practice Questions
+<!--# End-to-End Projects
+
+| Project Name | Description | Stack |
+| --- | --- | --- |
+|Olympics Games Analysis 
+
+
+# Data Analysis with Python 
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
+ # Datalemur SQL Interview Practice Questions
 | Company | Question | Answer
 | --- | --- |
 | git status | List all new or modified files |

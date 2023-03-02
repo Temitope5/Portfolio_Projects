@@ -8,8 +8,9 @@ Welcome to my Portfolio Guide where I provide a walkthrough to all of my data an
 # SQL
 | Project Name | Description |
 | --- | --- |
+| [Dany's Diner- Case study](https://github.com/Temitope5/SQL_Projects/tree/main/Dany's%20Dinner) |I collect and examine customer information to identify their frequency of visits, expenses, and preferred menu selections.
 | [Analyzing International Debt Statistics](https://github.com/Temitope5/SQL_Projects/tree/main/Analyze%20International%20Debt%20Statistics)| I examined and analyzed international debt data collected by The World Bank to answer some key questions |
-| [E-commerce Inventory Analysis](https://github.com/Temitope5/SQL_Projects/tree/main/E-commerce%20Inventory%20Analysis) | I used SQL to optimize inventory tracking of an e-commerce store |
+| [E-commerce Inventory Analysis](https://github.com/Temitope5/SQL_Projects/tree/main/E-commerce%20Inventory%20Analysis) | I did an extensive analysis providing 3 different approaches of answering the 5 business problems which was geared at optimizing inventory tracking of an e-commerce store |
 | [Analysis of World's Oldest Businesses](https://github.com/Temitope5/SQL_Projects/tree/main/What%20and%20Where%20are%20the%20World's%20Oldest%20Businesses) | This analysis examines the questions: What and where are the world's oldest businesses
 
 
@@ -21,6 +22,7 @@ Welcome to my Portfolio Guide where I provide a walkthrough to all of my data an
 
 
 # Python Programming Projects 
+
 | Project Name | Description | Library |
 | --- | --- | --- |
 | [Acronym Generator](https://github.com/Temitope5/Python_Projects/blob/main/Acronym_Generator.py) | This Python program generates acronyms |

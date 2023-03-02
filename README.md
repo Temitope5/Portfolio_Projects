@@ -17,7 +17,7 @@ Welcome to my Portfolio Guide where I provide a walkthrough to all of my data an
 | Project Name | Description | Link
 | --- | --- | --- |
 | [Stakeholder Sales Report](https://app.powerbi.com/view?r=eyJrIjoiNTcxY2I1NWUtOGIyZi00NWNkLTkwMzAtMTIyODZkNThkYjVkIiwidCI6IjM3YTM4M2I2LTBhNTktNGM3ZC05MGI5LWYxNDEzNzk5ZDJhYiJ9)| This is an analysis of a sales dashboard showing the most important information needed by the sales team  | [Link]((https://app.powerbi.com/view?r=eyJrIjoiNTcxY2I1NWUtOGIyZi00NWNkLTkwMzAtMTIyODZkNThkYjVkIiwidCI6IjM3YTM4M2I2LTBhNTktNGM3ZC05MGI5LWYxNDEzNzk5ZDJhYiJ9))
-| [Olympics Games Analysis]() | Using SQL and Power BI I created a visually stunning and interactive report that would allow users to gain a deeper understanding of how countries have fared in the Olympics over time, more interestingly how my country Nigeria performed. |[Link](https://app.powerbi.com/view?r=eyJrIjoiZDVjY2JjYTMtYjc5Ni00OTgxLWE2NjItNDU2NTdiMTZlMWU1IiwidCI6IjM3YTM4M2I2LTBhNTktNGM3ZC05MGI5LWYxNDEzNzk5ZDJhYiJ9)
+| [Olympics Games Analysis](https://app.powerbi.com/view?r=eyJrIjoiZDVjY2JjYTMtYjc5Ni00OTgxLWE2NjItNDU2NTdiMTZlMWU1IiwidCI6IjM3YTM4M2I2LTBhNTktNGM3ZC05MGI5LWYxNDEzNzk5ZDJhYiJ9) | Using SQL and Power BI I created a visually stunning and interactive report that would allow users to gain a deeper understanding of how countries have fared in the Olympics over time, more interestingly how my country Nigeria performed. |[Link](https://app.powerbi.com/view?r=eyJrIjoiZDVjY2JjYTMtYjc5Ni00OTgxLWE2NjItNDU2NTdiMTZlMWU1IiwidCI6IjM3YTM4M2I2LTBhNTktNGM3ZC05MGI5LWYxNDEzNzk5ZDJhYiJ9)
 
 
 # Python Programming Projects 
